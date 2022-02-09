@@ -1,0 +1,23 @@
+body{
+    margin-top: 7rem;
+}
+
+fieldset{
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+    background: rgb(200, 200, 200);
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+    width: 30rem;
+    background: transparent;
+    margin-bottom: 10px;
+}
+h1, a{
+    text-align: center;
+    color: deepskyblue;
+    text-decoration: none;
+}
+
